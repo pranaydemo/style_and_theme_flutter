@@ -44,10 +44,10 @@ class _MyHomePageState extends State<MyHomePage> {
       body: Column(
         children: [
           Text("Hello Android Developer",style: myStyle11(),),
-          Text("Hello IOS Developer",style: myStyle11(),),
-          Text("Hello Windows Developer",style: myStyle11(),),
-          Text("Hello Macs Developer",style: myStyle11(),),
-          Text("Hello Full Stack Developer",style: myStyle11(),),
+          Text("Hello IOS Developer",style: myStyle21(),),
+          Text("Hello Windows Developer",style: myStyle31(),),
+          Text("Hello Macs Developer",style: myStyle41(),),
+          Text("Hello Full Stack Developer",style: myStyle51(),),
 
         ],
       ),
